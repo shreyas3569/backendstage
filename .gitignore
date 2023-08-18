@@ -17,3 +17,5 @@ profiles/contrib
 
 # Ignore the vendor directory
 vendor
+
+/core
